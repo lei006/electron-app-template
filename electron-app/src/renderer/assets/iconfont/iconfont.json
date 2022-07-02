@@ -6,6 +6,69 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "1323276",
+      "name": "账号异常",
+      "font_class": "gaojingxinxi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "5961323",
+      "name": "运行",
+      "font_class": "yunhang",
+      "unicode": "ec61",
+      "unicode_decimal": 60513
+    },
+    {
+      "icon_id": "7404678",
+      "name": "故障状态",
+      "font_class": "guzhangzhuangtai",
+      "unicode": "e795",
+      "unicode_decimal": 59285
+    },
+    {
+      "icon_id": "8242801",
+      "name": "异常管理",
+      "font_class": "yichangguanli",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "12771505",
+      "name": "运行",
+      "font_class": "yunhang1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "15473054",
+      "name": "异常_危险",
+      "font_class": "yichang_weixian",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "15726988",
+      "name": "运行",
+      "font_class": "yunhang2",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "18176601",
+      "name": "停止",
+      "font_class": "stop-circle",
+      "unicode": "ea91",
+      "unicode_decimal": 60049
+    },
+    {
+      "icon_id": "18176602",
+      "name": "停止",
+      "font_class": "stop-circle-full",
+      "unicode": "ea92",
+      "unicode_decimal": 60050
+    },
+    {
       "icon_id": "752675",
       "name": "setup",
       "font_class": "0701shezhi",
